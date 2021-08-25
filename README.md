@@ -3,11 +3,10 @@
 <!--
 **Maryna-Kamenna/maryna-kamenna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on Java Script ( React )
-- 🌱 I’m currently learning Java Script
 - 👯 I’m looking to collaborate on disainers to make your projects revive)
 - 💬 Ask me about Odessa, traveling or codding))
 - 📫 How to reach me: massage me at Telegram: @blonDev
--->
+
